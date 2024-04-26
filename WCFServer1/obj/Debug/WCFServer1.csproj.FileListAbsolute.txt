@@ -1,0 +1,10 @@
+C:\Users\48571\OneDrive\Pulpit\COMLab5\WCFLab2\WCFServer1\bin\WCFServer1.dll.config
+C:\Users\48571\OneDrive\Pulpit\COMLab5\WCFLab2\WCFServer1\bin\WCFServer1.dll
+C:\Users\48571\OneDrive\Pulpit\COMLab5\WCFLab2\WCFServer1\bin\WCFServer1.pdb
+C:\Users\48571\OneDrive\Pulpit\COMLab5\WCFLab2\WCFServer1\bin\IZadanie5.dll
+C:\Users\48571\OneDrive\Pulpit\COMLab5\WCFLab2\WCFServer1\bin\IZadanie6.dll
+C:\Users\48571\OneDrive\Pulpit\COMLab5\WCFLab2\WCFServer1\obj\Debug\WCFServer1.csproj.AssemblyReference.cache
+C:\Users\48571\OneDrive\Pulpit\COMLab5\WCFLab2\WCFServer1\obj\Debug\WCFServer1.csproj.CoreCompileInputs.cache
+C:\Users\48571\OneDrive\Pulpit\COMLab5\WCFLab2\WCFServer1\obj\Debug\WCFServer1.csproj.Up2Date
+C:\Users\48571\OneDrive\Pulpit\COMLab5\WCFLab2\WCFServer1\obj\Debug\WCFServer1.dll
+C:\Users\48571\OneDrive\Pulpit\COMLab5\WCFLab2\WCFServer1\obj\Debug\WCFServer1.pdb
